@@ -26,7 +26,7 @@ const BattleLineClient = Client({
 //    gameComponents={[{game: BattleLine, board: BattleLineBoard}]}
 //    />
 //  </div>
-)
+//)
 
 // LOCAL:
  const App = () => (

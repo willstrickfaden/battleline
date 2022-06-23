@@ -31,7 +31,6 @@ const BattleLineClient = Client({
 // LOCAL:
  const App = () => (
    <div>
-//     <Header/>
      <BattleLineClient/>
    </div>
  )
